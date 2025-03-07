@@ -14,6 +14,7 @@ import { useEffect, React } from 'react';
 import i18n from './i18n';
 import { useTranslation } from 'react-i18next';
 import DoctorCalendar from './components/DoctorCalendar';
+import PrivacyPolicy from './pages/PrivacyPolicy';
 
 import { WhatsAppWidget } from 'react-whatsapp-widget';
 import 'react-whatsapp-widget/dist/index.css';
@@ -36,6 +37,7 @@ createRoutesFromElements(
       />    
 
     <Route path='/admin' element= {<AdminForm/>}/>
+    <Route path="/privacy-policy" element={<PrivacyPolicy />} />
     <Route path='/calendar' element= { <DoctorCalendar/> } />
     {/* <Route path='/login' element= { <Login/> } /> */}
   </Route>

@@ -84,6 +84,11 @@ const Footer = () => {
                     {t("phone")}
                   </a>
                 </li>
+                <li>
+                  <a href="https://wa.me/+201555840696" target="_blank" className="hover:underline mt-1">
+                    {t("privacy")}
+                  </a>
+                </li>
                 {/* <li>
                   <a href="https://wa.me/+201555840696" target="_blank" className="hover:underline">
                     {t("address")}

@@ -179,12 +179,33 @@
   "email": "contact@simply-eg.com",
   "phone": "+20 15 55840696",
   "location": "Location",
+  "privacy": "Privacy Policy",
   "All Rights Reserved": "All Rights Reserved",
   "Social Media": {
     "Facebook page": "Facebook page",
     "Twitter page": "Twitter page",
     "Instagram": "Instagram"
   },
+    "privacyPolicy": {
+      "title": "Privacy Policy",
+      "description": "Our website does not collect any personal data. It serves as an informational platform only.",
+      "dataCollection": {
+        "title": "Data Collection",
+        "description": "We do not collect or store any user data."
+      },
+      "thirdParty": {
+        "title": "Third-Party Services",
+        "description": "If you choose to contact us via WhatsApp, their privacy policy applies."
+      },
+      "changes": {
+        "title": "Changes to this Policy",
+        "description": "We may update this policy from time to time. Please check back for updates."
+      },
+      "contact": {
+        "title": "Contact Us",
+        "description": "If you have any questions, feel free to reach out."
+      }
+  },  
   "categories": {
     "childhood_psychiatric": {
       "name": "Childhood Psychiatric",

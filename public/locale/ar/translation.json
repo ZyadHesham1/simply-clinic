@@ -179,12 +179,33 @@
   "email": "contact@simply-eg.com",
   "phone": "2001555840696",
   "location": "موقع العيادة",
+  "privacy": "سياسة الخصوصية",
   "All Rights Reserved": "جميع الحقوق محفوظة",
   "Social Media": {
     "Facebook page": "صفحة فيسبوك",
     "Twitter page": "صفحة تويتر",
     "Instagram": "انستغرام"
   },
+    "privacyPolicy": {
+      "title": "سياسة الخصوصية",
+      "description": "موقعنا لا يجمع أي بيانات شخصية. إنه مجرد منصة معلوماتية.",
+      "dataCollection": {
+        "title": "جمع البيانات",
+        "description": "نحن لا نجمع أو نخزن أي بيانات عن المستخدمين."
+      },
+      "thirdParty": {
+        "title": "الخدمات الخارجية",
+        "description": "إذا اخترت التواصل معنا عبر واتساب، فسيتم تطبيق سياسة الخصوصية الخاصة بهم."
+      },
+      "changes": {
+        "title": "التعديلات على السياسة",
+        "description": "قد نقوم بتحديث هذه السياسة من وقت لآخر. يرجى مراجعتها بانتظام."
+      },
+      "contact": {
+        "title": "اتصل بنا",
+        "description": "إذا كان لديك أي أسئلة، لا تتردد في التواصل معنا."
+      }
+    },  
   "categories": {
     "childhood_psychiatric": {
       "name": "Childhood Psychiatric",
